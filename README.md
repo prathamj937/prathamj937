@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Jain</h1>
-<h3 align="center">Aspiring Devops Engineer from India.</h3>
+<h3 align="center">Contributor from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamj937" alt="prathamj937" /></a> </p>
 
