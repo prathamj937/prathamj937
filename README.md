@@ -95,9 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prathamj937&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamj937&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
